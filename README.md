@@ -43,15 +43,15 @@ Custom Model Support: Designed to work with your own trained best.pt YOLO model.
 
 # Project Structure
 
-app.py                  # FastAPI application with detection logic and API endpoints
+app.py                  (FastAPI application with detection logic and API endpoints)
 
-dockerfile              # Dockerfile for building the application image
+dockerfile              (Dockerfile for building the application image)
 
-main.py                 # Script for training the YOLO model (example)
+main.py                 (Script for training the YOLO model (example))
 
-requirements.txt        # Python dependencies
+requirements.txt        (Python dependencies)
 
-best.pt                 # Your pre-trained YOLO model weights (place this file here)
+best.pt                 (Your pre-trained YOLO model weights (place this file here))
 
 # Prerequisites
 Before you begin, ensure you have the following installed:
