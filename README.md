@@ -100,7 +100,7 @@ docker run -p 8000:8000 yolo-detection-api
 
 This maps port 8000 on your host machine to port 8000 inside the container, where the FastAPI application runs.
 
-The API should now be accessible at http://localhost:8000.
+The API should now be accessible at http://localhost:8000/.
 
 # 4. Running Locally (Without Docker)
 If you prefer to run the application directly on your machine:
@@ -115,7 +115,7 @@ Navigate to the project root directory and run:
 
 uvicorn app:app --host 0.0.0.0 --port 8000
 
-The API will be available at http://localhost:8000.
+The API will be available at http://localhost:8000/.
 
 # API Endpoints
 Once the server is running, you can access the API documentation (Swagger UI) at http://localhost:8000/docs.
