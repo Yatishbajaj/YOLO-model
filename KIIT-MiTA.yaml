@@ -1,0 +1,12 @@
+names:
+  - Artilary
+  - Missile
+  - Radar
+  - M. Rocket Launcher
+  - Soldier
+  - Tank
+  - Vehicle
+nc: 7
+train: train/images
+val: test/images
+test: valid/images
