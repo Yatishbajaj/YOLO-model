@@ -31,15 +31,15 @@ Contributing
 # Features
 Real-time Object Detection: Detects objects in images and videos using a pre-trained YOLOv8 model.
 
-# FastAPI Backend: A high-performance Python web API.
+FastAPI Backend: A high-performance Python web API.
 
-# Video Processing: Processes video files frame-by-frame, applies detections, and saves the annotated output.
+Video Processing: Processes video files frame-by-frame, applies detections, and saves the annotated output.
 
-# Digital Twin Logging: Automatically logs user actions and detection results for future analysis and digital twin compatibility.
+Digital Twin Logging: Automatically logs user actions and detection results for future analysis and digital twin compatibility.
 
-# Dockerized Deployment: Easy to build and run the application in a consistent environment.
+Dockerized Deployment: Easy to build and run the application in a consistent environment.
 
-# Custom Model Support: Designed to work with your own trained best.pt YOLO model.
+Custom Model Support: Designed to work with your own trained best.pt YOLO model.
 
 # Project Structure
 .
